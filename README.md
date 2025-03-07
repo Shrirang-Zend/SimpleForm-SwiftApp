@@ -12,7 +12,7 @@ This project is part of the iOS Developer Internship Assignment at Websites.co.i
 - **Clean architecture** for scalability
 
 ## 🎥 Demo  
-[Watch the demo video](https://www.youtube.com/watch?v=BUyHr9bavDE)
+[![Watch the demo](https://img.youtube.com/vi/BUyHr9bavDE/0.jpg)](https://www.youtube.com/watch?v=BUyHr9bavDE) 
 
 ## Project Plan
 
